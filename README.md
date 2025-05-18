@@ -1,4 +1,4 @@
-# DMA
+# Explore An Acoustic Extinguisher Fire Dataset With Machine Learning Models
 Project of **COMP4131 Data Modelling and Analysis** in 2024-2025.
 
 ## How to use this repo?
